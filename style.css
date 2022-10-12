@@ -23,3 +23,9 @@
     width: 100vw;
     text-align: center;
 }
+
+.card img{
+    width: 25vw;
+    background-size: cover;
+    height:35vh;
+}
